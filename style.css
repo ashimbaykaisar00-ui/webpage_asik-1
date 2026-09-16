@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+#main-heading {
+    font-size: 2rem;
+    color: #2c3e50;
+}
+
+.header {
+    background: #eef2f5;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid #3498db;
+}
+
+.main {
+    width: 80%;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.profile-img {
+    width: 120px;
+    height: 120px;
+
+}
+
+.highlight {
+    background: #fff9c4;
+    padding: 10px;
+    border-left: 4px solid #fbc02d;
+}
+
+.btn {
+    padding: 8px 16px;
+    background: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.schedule, .schedule th, .schedule td {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    padding: 8px;
+}
+
+.box {
+    padding: 10px;
+    margin: 5px 0;
+    color: white;
+}
+
+.static-box {
+    position: static;
+    background: #7f8c8d;
+}
+
+.relative-box {
+    position: relative;
+    top: 5px;
+    left: 10px;
+    background: #e67e22;
+}
+
+.float-left {
+    float: left;
+    width: 45%;
+    background: #9b59b6;
+}
+
+.float-right {
+    float: right;
+    width: 45%;
+    background: #e74c3c;
+}
+
+.clear {
+    clear: both;
+}
+
+.footer {
+    background: #2c3e50;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
