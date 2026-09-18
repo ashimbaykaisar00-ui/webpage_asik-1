@@ -1,7 +1,7 @@
 # Assignment #1: HTML & CSS Basics
 
 **Name:** Kaisar Ashimbay  
-**Group:** SE-2401  
+**Group:** SE-2540  
 
 ---
 
